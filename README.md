@@ -17,8 +17,7 @@ A Python cybersecurity project that analyses emails for potential phishing warni
 
 ## Technologies
 - Python
-- Regular Expressions
-- URL Parsing
+- URL Parsing 
 
 ## Disclaimer
 PhishLens identifies potential warning signs, not proof of phishing. A low risk score does not guarantee an email is safe.
